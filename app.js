@@ -1,2 +1,3 @@
 hola 
-como estas
+como estas}
+hola como estas
